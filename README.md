@@ -1,2 +1,31 @@
-# c0d3b590-cybersecurity-vendor-risk-mana
-An n8n workflow for information security teams automating vendor risk assessment and third-party management. Sends standardized security questionnaires to new vendors via email integration, collects and scores responses against risk thresholds, routes high-risk vendors to manual security review, tracks SOC 2 and ISO 27001 certificate expiration dat
+# Cybersecurity Vendor Risk Management and Third Party Assessment Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B64gzdPpf6Q6xygUccZa0I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B64gzdPpf6Q6xygUccZa0I)
+- [Buy on Gumroad](https://gumroadian755.gumroad.com/l/axbzoy)
+- [Buy on Whop](https://whop.com/cybersecurity-vendor-risk-management-and-third-party-assessment-workflow)
+
